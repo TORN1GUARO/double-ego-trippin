@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://torn1guaro.github.io/double-ego-trippin/sitemap.xml
